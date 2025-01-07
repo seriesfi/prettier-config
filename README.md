@@ -5,7 +5,7 @@ This package provides a shared Prettier configuration for all of our projects.
 ## Installation
 
 ```shell
-npm install --save-dev @seriesfi/prettier-config
+npm install --save-peer @seriesfi/prettier-config
 ```
 
 ## Usage
