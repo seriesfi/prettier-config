@@ -1,0 +1,26 @@
+{
+  "name": "@seriesfi/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier shareable config for Series Financial",
+  "main": "prettier.config.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seriesfi/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Series Financial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seriesfi/prettier-config/issues"
+  },
+  "homepage": "https://github.com/seriesfi/prettier-config#readme",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.1"
+  }
+}
