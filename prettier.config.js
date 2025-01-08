@@ -24,6 +24,7 @@ const prettierConfig = {
   ],
   importOrderSeparation: true,
   importOrderGroupNamespaceSpecifiers: true,
+  importOrderParserPlugins: ['decorators'],
   plugins: ['@trivago/prettier-plugin-sort-imports'],
 }
 
