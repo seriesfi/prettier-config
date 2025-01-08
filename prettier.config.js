@@ -12,8 +12,8 @@ const prettierConfig = {
     '^@/api/(.*)$',
     // end ohara-web
     // ohara-mobile
-    "^expo$",
-    "^expo/(.*)$",
+    '^expo$',
+    '^expo/(.*)$',
     // the following three import patterns were never used in ohara-mobile
     // "^@components/(.*)$",
     // "^@utilities/(.*)$",
