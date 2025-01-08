@@ -10,7 +10,7 @@ npm install --save-peer @seriesfi/prettier-config
 
 ## Usage
 
-Add a `prettier.config.mjs` file to the root of your project with the following contents:
+Add a `prettier.config.js` file to the root of your project with the following contents:
 
 ```javascript
 import baseConfig from '@seriesfi/prettier-config'
