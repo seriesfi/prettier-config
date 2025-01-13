@@ -30,7 +30,8 @@ The GitHub Actions workflow will fail if any files are not formatted correctly.
 ### VS Code
 
 For any VS Code users (or users of forks like Windsurf), ensure you have the Prettier extension installed.
-If you have already had Prettier installed in the past, give it a once-over to ensure it's installed for Remote-WSL.
+If you have already had Prettier installed in the past, give it a once-over to ensure it's installed for Remote-WSL if
+you're on Windows.
 Make sure you've run `npm install` in your project directory to ensure the Prettier extension can find the
 configuration.
 In your settings, set
